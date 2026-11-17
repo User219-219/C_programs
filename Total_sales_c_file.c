@@ -1,3 +1,10 @@
+/* Author: Kennedy Derrick Praise 
+   Registration_Number: BCS-03-0139/2026
+   Description: A simple c program to calculate the total amount of sales from values saved in a .txt file and give out the output.
+   Date: 2026-11-18
+   Version: 2.8*/
+
+
 #include<stdio.h>
 #include<stdlib.h>
 
