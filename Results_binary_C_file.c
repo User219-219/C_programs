@@ -1,3 +1,10 @@
+/* Author: Kennedy Derrick Praise 
+   Registration_Number: BCS-03-0139/2026
+   Description: A simple c program to create student result information in c file using binary format
+   Date: 2026-11-03
+   Version: 2.6*/
+
+
 #include<stdio.h>
 #include<stdlib.h>
 
