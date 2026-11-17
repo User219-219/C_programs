@@ -1,3 +1,9 @@
+/* Author: Kennedy Derrick Praise 
+   Registration_Number: BCS-03-0139/2026
+   Description: A simple c program to add a book title using c files and keep records
+   Date: 2026-11-18
+   Version: 2.4*/
+
 #include<stdio.h>
 #include<stdlib.h>
  
