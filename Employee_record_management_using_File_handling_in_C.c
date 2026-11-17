@@ -1,3 +1,10 @@
+/* Author: Kennedy Derrick Praise 
+   Registration_Number: BCS-03-0139/2026
+   Description: A simple c program keep record of employee management using c file handling and functions.
+   Date: 2026-11-18
+   Version: 2.5*/
+
+
 #include<stdio.h>
 #include<stdlib.h>
  
